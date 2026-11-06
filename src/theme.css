@@ -1,0 +1,19 @@
+/* Medvora theme */
+:root {
+  --pp-accent: #0b5cad;
+  --pp-accent-hover: #084c90;
+  --pp-accent2: #ff8a75;
+  --pp-ink: #0f1f33;
+  --pp-muted: #4c5d70;
+  --pp-paper: #f4f7fb;
+  --pp-tint: #e7eef7;
+  --pp-card: #ffffff;
+  --pp-line: #d5dfeb;
+  --pp-dark: #0a2647;
+  --pp-dark-ink: #eef4fb;
+  --pp-serif: 'Instrument Serif', Georgia, serif;
+  --pp-sans: 'DM Sans', system-ui, sans-serif;
+  --pp-mono: 'DM Mono', ui-monospace, monospace;
+  --pp-display-weight: 400;
+}
+h1, .pp h2, .heading h2 { letter-spacing: -.02em; }
